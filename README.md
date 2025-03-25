@@ -1,0 +1,1 @@
+# elastic_kibana_minio
